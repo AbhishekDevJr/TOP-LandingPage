@@ -125,3 +125,26 @@ button{
     
 }
 
+.section3 {
+    background-color : #EFE7EB;
+    font-size : 36px;
+    color : #1F2937;
+    
+    font-style: italic;
+    padding-left : 200px;
+    padding-right : 200px;
+    padding-top : 100px;
+    padding-bottom : 50px;
+    text-align : left;
+}
+
+.FlexBox{
+    
+    text-align : right;
+    padding-top : 5px;
+    padding-right : 70px;
+    font-size : 26px;
+    font-style: normal;
+    font-weight: bold;
+}
+
