@@ -11,6 +11,12 @@ body{
    
 }
 
+.ItachiPic{
+    width : 200px;
+    height : 200px;
+    border-radius : 20px;
+}
+
 .header {
     background-color : #1F2937;
     color : white;
@@ -106,6 +112,7 @@ button{
     padding-left : 150px;
     padding-right : 150px;
     margin-top : 50px;
+    
    
 }
 
@@ -114,6 +121,7 @@ button{
     width : 200px;
     height : 200px;
     border-radius : 20px;
+   
 }
 
 .testItemText {
@@ -122,6 +130,8 @@ button{
     color : rgba(70, 67, 67, 0.982);
     font-size : 18px;
     text-align : center;
+    
+    
     
 }
 
@@ -195,4 +205,14 @@ button{
     padding-right : auto;
     color :  #F9FAF8;
     font-size : 20px;
+}
+
+.quote {
+    
+    text-align : right;
+    margin-top : -18px;
+}
+
+.TI2, .TI3{
+    margin-top : -24px;
 }
